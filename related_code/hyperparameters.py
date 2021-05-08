@@ -27,7 +27,8 @@ class Hyperparameters:
   # all_train = True
   
   # network variants
-  net_variant = 'birnn'
+  # net_variant = 'birnn'
+  net_variant = 'birnn_attention'
   # net_variant = 'birnn_concat_time_delta'
   # net_variant = 'birnn_concat_time_delta_attention'
   # net_variant = 'birnn_time_decay'#

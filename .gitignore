@@ -3,3 +3,4 @@
 *.pkl
 *.npz
 .vscode/
+*.pt
